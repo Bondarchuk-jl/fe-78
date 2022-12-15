@@ -1,0 +1,101 @@
+@font-face {
+    font-family: Open-700;
+    scr(../font)
+}
+
+body {
+    color: ;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.header-tel{
+    
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: #FFFFFF;
+}
+.bottom{
+    font-family: inherit;
+    font-weight: 600;
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: 0.09em;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+.site-body {
+
+}
+.header {}
+
+.heder-navigation {}
+
+.header-link{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    /*-- line-height: 1.33 
+    ( коєфициент 16 поділити на 12= 1.33 (ширина рядка)--*/
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.header-item {}
+
+.hero {}
+
+.hero-list {}
+
+.hero-item {}
+
+.hero-title-main {}
+
+.hero-title {}
+
+
+/*--*/
+.benefits {}
+
+.benefits-list {}
+
+.list {}
+
+.benefits-item {}
+
+.count {}
+
+.benefits-item-text {}
+
+.benefits-pre-title {}
+
+.benefits-title {}
+
+.benefits-after-title {}
+
+
+/**/
+.barbers {}
+
+.barbers-pre-title {}
+
+.barbers-item title {
+
+}
+
+/*Прихований заголовок*/
+.visually-hidden {
+    position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        border: 0;
+        padding: 0;
+        white-space: nowrap;
+        clip-path: inset(100%);
+        clip: rect(0 0 0 0);
+        overflow: hidden;
+}
